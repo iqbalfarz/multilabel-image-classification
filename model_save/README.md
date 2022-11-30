@@ -1,0 +1,1 @@
+- This folder contains all the saved model during trainig of different Image Classifiers.
